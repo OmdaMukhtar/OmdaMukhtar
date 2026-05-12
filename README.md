@@ -4,7 +4,7 @@
 
 ### DevOps & Platform Engineer
 
-_7+ years building production-grade cloud infrastructure, CI/CD automation, and SRE-driven reliability systems_
+_5+ years building production-grade cloud infrastructure, CI/CD automation, and SRE-driven reliability systems_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emad_Mukhtar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omdamukhtar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-emadmukhtar.com-000000?style=flat-square&logo=safari)](https://emadmukhtar.com/portfolio)
