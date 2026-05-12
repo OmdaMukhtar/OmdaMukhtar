@@ -131,8 +131,8 @@ End-to-end containerized application deployment on Amazon EKS with Datadog integ
 
 <div align="center">
 
-![Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmdaMukhtar&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmdaMukhtar&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmdaMukhtar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OmdaMukhtar&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
 </div>
 
