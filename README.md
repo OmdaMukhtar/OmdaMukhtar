@@ -32,6 +32,7 @@ I build things I'd trust at 3AM during an incident.
 
 | Certification                                           | Issuer                  | Status    |
 | ------------------------------------------------------- | ----------------------- | --------- |
+| 🏆 **Certified System Administrator in OpenShift**      | Red Hat                 | ✅ Earned |
 | 🏆 **AWS Certified DevOps Engineer – Professional**     | Amazon Web Services     | ✅ Earned |
 | 🏆 **Red Hat Certified System Administrator (RHCSA 9)** | Red Hat                 | ✅ Earned |
 | 🏆 **Red Hat Certified Engineer (RHCE 9)**              | Red Hat                 | ✅ Earned |
