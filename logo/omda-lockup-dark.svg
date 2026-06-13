@@ -1,0 +1,24 @@
+<svg width="500" height="320" viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
+  <title>Omda — DevOps Engineer — Full Lockup (Dark Background)</title>
+
+  <!-- Background -->
+  <rect width="500" height="320" fill="#0B0D12"/>
+
+  <!-- Icon -->
+  <g transform="translate(80,160)">
+    <rect x="-52" y="-52" width="104" height="104" rx="20" fill="#1C1F26" stroke="#2D3340" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#F59E0B" stroke-width="8"/>
+    <rect x="-4.5" y="-39" width="9" height="12" rx="2" fill="#F59E0B"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="160" y="175" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+        font-weight="800" font-size="46" letter-spacing="-1.5" fill="#FFFFFF">Omda</text>
+
+  <!-- Tagline -->
+  <text x="162" y="205" font-family="'JetBrains Mono','Fira Code',monospace"
+        font-size="10" letter-spacing="0.25em" fill="#F59E0B">DEVOPS ENGINEER</text>
+
+  <!-- Accent rule -->
+  <rect x="162" y="220" width="80" height="2" fill="#92400E"/>
+</svg>
