@@ -1,0 +1,14 @@
+<svg width="240" height="64" viewBox="0 0 240 64" xmlns="http://www.w3.org/2000/svg">
+  <title>Omda — Compact Inline Lockup</title>
+
+  <!-- Icon -->
+  <g transform="translate(32,32)">
+    <rect x="-28" y="-28" width="56" height="56" rx="12" fill="#1C1F26"/>
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#F59E0B" stroke-width="4.5"/>
+    <rect x="-2.5" y="-21" width="5" height="7" rx="1.2" fill="#F59E0B"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="68" y="40" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+        font-weight="800" font-size="30" letter-spacing="-1" fill="#1C1F26">Omda</text>
+</svg>
